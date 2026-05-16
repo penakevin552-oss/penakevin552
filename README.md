@@ -25,6 +25,7 @@ Me desemvuelvo copn herramientas como vs code, git, github, sql, terminal
   <img src="https://skillicons.dev/icons?i=vscode, terminal, git, boostrap" />
 
 </p>
+
 ## Conecta conmigo
 
 - 💻 GitHub: https://github.com/penakvin552
