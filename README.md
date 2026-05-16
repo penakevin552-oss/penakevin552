@@ -19,12 +19,7 @@ Me desemvuelvo copn herramientas como vs code, git, github, sql, terminal
 
 
 ## GitHub Stats
-
-<p align="left">
-
-  <img src="https://skillicons.dev/icons?i=vscode, terminal, git, boostrap" />
-
-</p>
+Vs Code, Git, Boostrap, terminal.
 
 ## Conecta conmigo
 
