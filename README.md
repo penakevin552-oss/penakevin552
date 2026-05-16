@@ -20,14 +20,11 @@ Me desemvuelvo copn herramientas como vs code, git, github, sql, terminal
 
 ## GitHub Stats
 
-<p align="center">
+<p align="left">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penakevin552&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penakevin552&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=vscode, terminal, git, boostrap" />
 
 </p>
-
 ## Conecta conmigo
 
 - 💻 GitHub: https://github.com/penakvin552
