@@ -1,32 +1,28 @@
 # Kevin Rojas
 
-### Estudiante de Ingeniería de Sistemas | Backend & Tecnología
+### Systems Engineering Student | Backend & Technology
 
-Soy estudiante de tercer semestre de Ingeniería de Sistemas, apasionado por la programación, la tecnología y el aprendizaje constante.  
-Actualmente estoy fortaleciendo mis habilidades en desarrollo web, backend, automatización, inteligencia artificial y ciberseguridad.
+I am a third-semester Systems Engineering student passionate about programming, technology, and continuous learning.  
+Currently, I am strengthening my skills in web development, backend development, automation, artificial intelligence, and cybersecurity.
 
----
-
-##  Tecnologías que estoy aprendiendo
+## Technologies I’m Learning
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,php,mysql,git,github,vscode" />
 </p>
 
----
 
-##  Áreas de interés
-
+##  Areas of Interest
 -  Backend Development
 -  Frontend Development
--  Inteligencia Artificial
--  Ciberseguridad
--  Automatización
--  Bases de Datos
+-  Artificial Intelligence
+-  Cybersecurity
+-  Automation
+-  Databases
 
----
 
-## Herramientas
+
+##  Tools
 
 - VS Code
 - Git
@@ -34,45 +30,27 @@ Actualmente estoy fortaleciendo mis habilidades en desarrollo web, backend, auto
 - SQL
 - Terminal & CLI
 
----
 
-## 📚 Actualmente aprendiendo
+##  Currently Learning
 
 - Python
 - JavaScript
 - PHP
-- Bases de datos SQL
+- SQL Databases
 - Git & GitHub
-- Desarrollo web moderno
+- Modern Web Development
 
----
 
-##  Objetivos
 
-- Convertirme en desarrollador profesional
-- Crear proyectos reales y escalables
-- Trabajar remotamente en tecnología
-- Seguir creciendo en backend e IA
-- Aprender nuevas tecnologías constantemente
+##  Goals
 
----
+- Become a professional software developer
+- Build real and scalable projects
+- Work remotely in the tech industry
+- Continue growing in backend development and AI
+- Constantly learn new technologies
 
-##  GitHub Stats
+## Connect With Me
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
-
----
-
-##  Conecta conmigo
-
--  GitHub: https://github.com/TU-USUARIO
--  Email: tuemail@gmail.com
-
----
-
-<p align="center">
-  ⚡ “El aprendizaje constante es la clave del crecimiento en tecnología.”
-</p>
+- GitHub: https://github.com/penakevin552
+- Email: penakevin552gmail.com
