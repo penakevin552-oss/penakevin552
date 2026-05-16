@@ -21,10 +21,12 @@ Me desemvuelvo copn herramientas como vs code, git, github, sql, terminal
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU-USUARIO&layout=compact&theme=tokyonight"/>
-</p>
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=penakevin552&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=penakevin552&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ## Conecta conmigo
 
